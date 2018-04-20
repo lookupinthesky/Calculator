@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
         subtract = (TextView) findViewById(R.id.subtract);
         percentage = (TextView)findViewById(R.id.percentage);
         signChange = (TextView) findViewById(R.id.signChange);
+
+
         allClear = (TextView) findViewById(R.id.allClear);
 
     }
